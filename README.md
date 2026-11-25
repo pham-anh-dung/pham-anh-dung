@@ -1,16 +1,22 @@
-## Hi there 👋
+Hi, I'm Pham Anh Dung!
 
-<!--
-**pham-anh-dung/pham-anh-dung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a third-year Mechatronics Engineering student at Hanoi University of Science and Technology (HUST), Vietnam.
 
-Here are some ideas to get you started:
+I'm interested in Embedded Systems, Firmware Development, and IoT. Currently, I'm learning C/C++ and working with ESP32 and STM32 microcontrollers.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+What I'm learning
+- C/C++ programming
+- ESP32 and STM32 development
+- Communication protocols: UART, I2C
+- Hardware-software integration
+
+Tools
+- VS Code
+- PlatformIO
+- Git and GitHub
+
+Projects
+I'm currently working on several Embedded Systems projects. I'll share my code and project documentation here as I make progress.
+
+Contact
+- GitHub: [pham-anh-dung](https://github.com/pham-anh-dung)
